@@ -1,0 +1,26 @@
+tr.new {
+  background-color: #cfc;
+}
+
+tr.agreed {
+  background-color: #afa;
+}
+
+tr.declined {
+  background-color: #faa;
+}
+
+tr.undecided {
+  background-color: #ccc;
+}
+
+p {
+  font-size: smaller;
+}
+
+table.sortable th {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    cursor: default;
+}

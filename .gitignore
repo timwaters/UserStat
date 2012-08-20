@@ -1,0 +1,13 @@
+# ignore generated html files
+html/*.html
+
+# ignore generated .pyc files
+*.pyc
+
+# ignore vim swap files
+.*.swp
+html/.*.swp
+html/js/.*.swp
+html/css/.*.swp
+templates/.*.swp
+
